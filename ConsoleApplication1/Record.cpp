@@ -41,4 +41,3 @@ void Record::display()
 	cout << "----------------" << endl;
 }
 
-}
