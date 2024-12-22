@@ -1,8 +1,9 @@
 ﻿
-#include <iostream>
 #include <string>
+#include <iostream>
 #include "Person.h"
 #include "Student.h"
+#include "Utility.h"
 using namespace std;
 
 int main()
@@ -23,4 +24,3 @@ int main()
 	Student student1("A123456789", "Chen", "Jason", "M", "1999-01-01", "S001", Department::ComputerSciece, ClassName::_1A);
 	student1.display();
 }
-
