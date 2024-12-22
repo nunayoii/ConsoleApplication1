@@ -12,7 +12,6 @@ private:
 	string birthDate;
 
 public:
-	
 	Person(const string& id, const string& lastName, const string& firstName, const string& gender, const string& birthDate);
 	Person();
 

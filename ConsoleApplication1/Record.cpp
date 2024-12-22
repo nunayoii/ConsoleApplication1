@@ -34,9 +34,11 @@ string Record::getRecordDate() const
 
 void Record::display()
 {
-	cout << "選課序號 " << getRecordId() << endl;
-	cout << "學號 " << getStudentId() << endl;
-	cout << "課程代碼 " << getCourseId() << endl;
-	cout << "選課日期" << getRecordDate() << endl;
+	cout << "選課序號： " << getRecordId() << endl;
+	cout << "學號： " << getStudentId() << endl;
+	cout << "課程代碼： " << getCourseId() << endl;
+	cout << "選課日期：" << getRecordDate() << endl;
 	cout << "----------------" << endl;
+}
+
 }
