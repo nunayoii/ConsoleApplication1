@@ -30,3 +30,27 @@
 - 新增繼承自Person的Teacher類別
 - 使用[vector](https://www.w3schools.com/cpp/cpp_vectors.asp)容器儲存物件來記錄老師所授課的課程
 - 變數重新命名(rename)，程式碼重構(refactoring)
+- 
+- ## ver 4
+- 
+- 新增選課紀錄Record類別
+- 瞭解類別的靜態成員(static member)的概念
+- 使用time_t型別記錄選課時間
+- 瞭解auto關鍵字的使用
+- 瞭解C++ foreach迴圈的使用
+- 瞭解vector容器的push_back()和size()方法的意義
+- 使用do-while迴圈
+- 使用switch-case敘述
+
+## ver 5
+
+- 使用system指令
+- 了解程式編譯與連結的過程，以及其所產生的錯誤訊息
+- 使用C++的foreach迴圈
+- 了解static_cast的用法
+- 新增以下功能：
+
+1. 新增學生資料
+1. 新增教師資料
+1. 新增課程資料
+1. 新增選課紀錄
