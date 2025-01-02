@@ -7,7 +7,7 @@ class Record
 {
 private:
 	static int nextId;
-	int recordId; 
+	int recordId;
 	string studentId;
 	string courseId;
 	time_t recordDate;
@@ -21,5 +21,6 @@ public:
 
 	void display();
 };
+
 
 
